@@ -1,0 +1,7 @@
+Old obsolete [[https://en.wikipedia.org/wiki/Zippy_the_Pinhead][Zippy the Pinhead]] package for Emacs.
+
+- Disappeared from: https://github.com/emacs-mirror/emacs/blob/master/lisp/obsolete/yow.el
+
+- Recovered from: https://fossies.org/linux/emacs/lisp/obsolete/yow.el
+
+- Get the Zippy quote file from: http://xahlee.info/emacs/emacs/emacs_zippy.html
